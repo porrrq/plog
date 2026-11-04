@@ -1,0 +1,8 @@
+.navBar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+.navBar-container div {
+    margin-right: 20px;
+}
