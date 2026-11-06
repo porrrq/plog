@@ -1,0 +1,23 @@
+{
+  "name": "plog",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/porrrq/plog#readme",
+  "bugs": {
+    "url": "https://github.com/porrrq/plog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/porrrq/plog.git"
+  },
+  "license": "ISC",
+  "author": "Punyawat Pungphomin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "marked": "^18.1.3"
+  }
+}
