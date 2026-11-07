@@ -10,14 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/porrrq/plog.git"
   },
-  "license": "ISC",
-  "author": "Punyawat Pungphomin",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "blogIndexing.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "gray-matter": "^4.0.3",
     "marked": "^18.1.3"
   }
 }
